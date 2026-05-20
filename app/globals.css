@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "../styles/tokens.css";
+
+@theme inline {
+  --color-bg:        var(--bg-base);
+  --color-bg-elev:   var(--bg-elevated);
+  --color-bg-deep:   var(--bg-deep);
+  --color-ink:       var(--ink-primary);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-soft:  var(--ink-soft);
+  --color-ink-inverse: var(--ink-inverse);
+  --color-accent:    var(--accent);
+  --color-steel:     var(--steel);
+  --color-steel-soft: var(--steel-soft);
+  --color-line:      var(--line);
+  --color-line-strong: var(--line-strong);
+
+  --font-display: var(--font-display);
+  --font-body:    var(--font-body);
+}
+
+html, body {
+  background: var(--bg-base);
+  color: var(--ink-primary);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection { background: var(--accent); color: white; }
