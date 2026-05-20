@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "headline": "Spaces that think.",
+    "sublineLine1": "Cities that speak.",
+    "subline": "Architecture student with a focus on real estate market analysis. Open to opportunities, internships, freelances and collaborations across Portugal and Europe.",
+    "cta": "Let's talk",
+    "featuredProjectChip": {
+      "title": "Helix Tower",
+      "subtitle": "Parametric vertical residential"
+    }
+  },
+  "stats": [
+    { "value": "50", "label": "Works & studies" },
+    { "value": "3",  "label": "Years exploring" },
+    { "value": "80", "label": "Dashboards & analyses" },
+    { "value": "20", "label": "Zones mapped (SP)" }
+  ],
+  "dualSpecialty": {
+    "title": "Two languages, one gaze.",
+    "left": {
+      "kicker": "Architecture",
+      "title": "Projects that respond to the territory",
+      "body": "From concept to construction detail: academic exercises and personal projects across feasibility, executive design, parametric façades, retrofit and interiors.",
+      "cta": "See architecture projects"
+    },
+    "right": {
+      "kicker": "Real Estate Intelligence",
+      "title": "Data that becomes decision",
+      "body": "Power BI dashboards, densification studies, absorption and sales velocity analysis, demographic and competitive mapping.",
+      "cta": "See market studies"
+    }
+  },
+  "featured": {
+    "eyebrow": "Selected",
+    "title": "Recent work",
+    "description": "A curation of what best represents both sides of the practice."
+  },
+  "dataInsights": {
+    "eyebrow": "Market Intelligence",
+    "title": "From floor plan to dashboard.",
+    "body": "Every launch is also a data point. I started mapping the vertical residential output of São Paulo and São José dos Campos — by zone, typology, area, and developer — and the method is replicable for any European market.",
+    "image": "/images/data-insights/dashboard-preview.jpg",
+    "cta": "See full studies"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Fernando Diogo",
+    "body": "Architecture student, currently in training. I combine design practice with reading the city through data — to understand why some cities work and others merely exist. Open to opportunities, internships, freelances and collaborations across Portugal and Europe.",
+    "image": "/images/about/portrait.jpg"
+  },
+  "testimonials": [
+    {
+      "quote": "A rare combination of architectural sensibility and analytical market reading.",
+      "author": "Maria Santos",
+      "role": "Real Estate Developer"
+    }
+  ],
+  "contactCta": {
+    "title": "Let's collaborate.",
+    "subtitle": "Opportunities, internships, freelances, projects or collaborations — get in touch.",
+    "cta": "Send a message"
+  },
+  "social": {
+    "email": "fernando@fernandodiogo.com",
+    "whatsapp": "+351 900 000 000",
+    "linkedin": "https://linkedin.com/in/fernandodiogo",
+    "instagram": "https://instagram.com/fernandodiogo"
+  }
+}

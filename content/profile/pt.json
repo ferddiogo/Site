@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "eyebrow": "Sobre",
+    "title": "Fernando Diogo",
+    "titleAccent": "São José dos Campos - Lisboa",
+    "subtitle": "Sobre",
+    "cvButton": "Portfolio",
+    "cvFile": "/cv/fernando-diogo-cv-pt.pdf",
+    "cvFilename": "fernando-diogo-cv-pt.pdf"
+  },
+  "skills": {
+    "title": "Ferramentas.",
+    "description": "Softwares e linguagens utilizadas.",
+    "categories": [
+      {
+        "title": "Arquitetura",
+        "items": ["AutoCAD", "SketchUp"]
+      },
+      {
+        "title": "Urbanismo e Geoprocessamento",
+        "items": ["QGis", "RStudio"]
+      },
+      {
+        "title": "Geral",
+        "items": ["Power BI", "Excel"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Formação",
+    "items": [
+      {
+        "period": "2024 — atual",
+        "title": "Universidade do Vale do Paraíba UNIVAP",
+        "institution": "Universidade do Vale do Paraíba UNIVAP",
+        "description": "São José do Campos."
+      },
+      {
+        "period": "2026",
+        "title": "Universidade Autónoma de Lisboa UAL",
+        "institution": "Universidade Autónoma de Lisboa UAL",
+        "description": "Erasmus em Lisboa"
+      }
+    ]
+  },
+  "closingCta": {
+    "title": "Aberto a oportunidades.",
+    "subtitle": "Estágios, freelances, projetos académicos ou colaborações — fala comigo ou descarrega o CV.",
+    "primaryCta": "Mandar mensagem",
+    "secondaryCta": "Descarregar CV"
+  }
+}

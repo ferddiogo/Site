@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Início",
+    "projects": "Projetos",
+    "profile": "Perfil",
+    "hobbies": "Hobbies",
+    "contact": "Contacto"
+  },
+  "buttons": {
+    "learnMore": "Saber mais",
+    "letsTalk": "Vamos falar",
+    "viewProject": "Ver projeto",
+    "viewAll": "Ver todos",
+    "backToProjects": "Voltar aos projetos",
+    "send": "Enviar mensagem",
+    "sending": "A enviar...",
+    "sent": "Mensagem enviada!"
+  },
+  "form": {
+    "name": "Nome",
+    "email": "Email",
+    "type": "Tipo de projeto",
+    "typeOptions": {
+      "architecture": "Arquitetura",
+      "data": "Inteligência imobiliária",
+      "consulting": "Consultoria",
+      "other": "Outro"
+    },
+    "message": "Mensagem",
+    "errorGeneric": "Algo correu mal. Tenta novamente ou envia email diretamente.",
+    "errorRequired": "Campo obrigatório"
+  },
+  "labels": {
+    "year": "Ano",
+    "location": "Localização",
+    "category": "Categoria",
+    "client": "Cliente",
+    "status": "Estado",
+    "area": "Área",
+    "floors": "Pisos",
+    "units": "Unidades",
+    "tags": "Tags",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "filterAll": "Todos"
+  },
+  "categories": {
+    "architecture": "Arquitetura",
+    "data-intelligence": "Inteligência Imobiliária",
+    "urban-study": "Estudos Urbanos",
+    "interior": "Interiores"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados",
+    "tagline": "Arquitetura · Inteligência Imobiliária"
+  }
+}

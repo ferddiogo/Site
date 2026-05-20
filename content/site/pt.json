@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "headline": "Tekoá ou Canteiro.",
+    "sublineLine1": "na mediação entre pesquisa e criação.",
+    "subline": "Fernando Diogo",
+    "cta": "Contato",
+    "featuredProjectChip": {
+      "title": "Torre Hélix",
+      "subtitle": "Residencial vertical paramétrico"
+    }
+  },
+  "stats": [
+    { "value": "50", "label": "Trabalhos & estudos" },
+    { "value": "3",  "label": "Anos de exploração" },
+    { "value": "80", "label": "Dashboards & análises" },
+    { "value": "20", "label": "Zonas mapeadas (SP)" }
+  ],
+  "dualSpecialty": {
+    "title": "Duas linguagens, um olhar.",
+    "left": {
+      "kicker": "Arquitetura",
+      "title": "Projetos que respondem ao território",
+      "body": "Do conceito ao detalhe construtivo: exercícios académicos e projetos pessoais em viabilidade, projeto executivo, fachadas paramétricas, retrofit e interiores.",
+      "cta": "Ver projetos de arquitetura"
+    },
+    "right": {
+      "kicker": "Inteligência Imobiliária",
+      "title": "Dados que viram decisão",
+      "body": "Dashboards em Power BI, estudos de densificação, análise de absorção e velocidade de vendas, mapeamento demográfico e de concorrência.",
+      "cta": "Ver estudos de mercado"
+    }
+  },
+  "featured": {
+    "eyebrow": "Selecionados",
+    "title": "Trabalhos recentes",
+    "description": "Uma curadoria do que melhor representa as duas vertentes."
+  },
+  "dataInsights": {
+    "eyebrow": "Inteligência de Mercado",
+    "title": "Da planta ao painel.",
+    "body": "Cada lançamento é também um dado. Comecei a mapear a produção residencial vertical de São Paulo e São José dos Campos — por zona, tipologia, área e promotor — e o método é replicável a qualquer mercado europeu.",
+    "image": "/images/data-insights/dashboard-preview.jpg",
+    "cta": "Ver estudos completos"
+  },
+  "about": {
+    "eyebrow": "Sobre",
+    "title": "Fernando Diogo",
+    "body": "Estudante de Arquitetura, atualmente em formação. Combino prática projetual com leitura de cidade através de dados — para perceber porque algumas cidades funcionam e outras só existem. Aberto a oportunidades, estágios, freelances e colaborações na área, em Portugal e na Europa.",
+    "image": "/images/about/portrait.jpg"
+  },
+  "testimonials": [
+    {
+      "quote": "A combinação rara de sensibilidade arquitetónica com leitura analítica do mercado.",
+      "author": "Maria Santos",
+      "role": "Promotora Imobiliária"
+    }
+  ],
+  "contactCta": {
+    "title": "Vamos colaborar.",
+    "subtitle": "Oportunidades, estágios, freelances, projetos ou colaborações — fala comigo.",
+    "cta": "Mandar mensagem"
+  },
+  "social": {
+    "email": "fernando@fernandodiogo.com",
+    "whatsapp": "+351 900 000 000",
+    "linkedin": "https://linkedin.com/in/fernandodiogo",
+    "instagram": "https://instagram.com/fernandodiogo"
+  }
+}
